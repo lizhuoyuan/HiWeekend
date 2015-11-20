@@ -13,7 +13,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 /**
  * 
- * @author 李卓原
+ * @author 李卓原 
  * 创建时间：2015年11月20日 下午6:08:37
  */
 public class AllActivity extends Activity {
